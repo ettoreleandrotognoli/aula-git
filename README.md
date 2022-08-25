@@ -22,7 +22,7 @@ public class Main {
 
 
 ```php
-echo "Hello World"
+echo "Hello World";
 ```
 
 ```c++
